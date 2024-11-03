@@ -30,20 +30,17 @@ For Software:
   
 
 screenshot:
-<img width="1312" alt="Screenshot 2024-11-03 at 6 49 59 AM" src="https://github.com/user-attachments/assets/9db37426-f957-4f40-9bcb-e7238b9e1d18">
-<img width="1312" alt="Screenshot 2024-11-03 at 7 19 06 AM" src="https://github.com/user-attachments/assets/e03d7f75-04fd-44a4-bd45-c3470e698f19">
-<img width="1312" alt="Screenshot 2024-11-03 at 7 19 17 AM" src="https://github.com/user-attachments/assets/045e829d-ffcd-40ac-81ae-b5499425d932">
+<img width="1440" alt="Screenshot 2024-11-03 at 7 51 12 AM" src="https://github.com/user-attachments/assets/8cb16d9d-ab74-4337-9285-fb0b3e2f2192">
+<img width="1440" alt="Screenshot 2024-11-03 at 7 51 18 AM" src="https://github.com/user-attachments/assets/5f935567-025a-4c44-9111-f18147064a49">
+<img width="1440" alt="Screenshot 2024-11-03 at 7 51 42 AM" src="https://github.com/user-attachments/assets/ffa6a62c-0ab1-4f32-acda-69dea7bd402e">
 
 
 
 # Video
 
-https://github.com/user-attachments/assets/02c1af65-bf4b-4afe-86be-d5485ff1a91d
+https://github.com/user-attachments/assets/1808c2e2-52ee-4630-a0c0-d81e68344e98
 
 
-
-
- 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
