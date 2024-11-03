@@ -1,38 +1,34 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# NOTHING
 
 
-## Basic Details
-### Team Name: [Name]
+## This project appears designed to entertain users rather than serve as a practical login page. The playful mechanics and humorous effects add a layer of fun, potentially for a project showcase or a unique approach to UX experimentation.
+### Team Name: MedEye
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Thabsheera thasnim vk - college of engineering munnar
+- Member 2: Ameen pp - college of engineering munnar
+
 
 ### Project Description
-[2-3 lines about what your project does]
+This project appears designed to entertain users rather than serve as a practical login page. The playful mechanics and humorous effects add a layer of fun
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+nothing , just for entertinment
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+..
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- html,css js
+-HTML5 Structure,CSS Styling:,js,HTML5 Audio
+  
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
