@@ -29,64 +29,21 @@ For Software:
 -HTML5 Structure,CSS Styling:,js,HTML5 Audio
   
 
+screenshot:
+<img width="1312" alt="Screenshot 2024-11-03 at 6 49 59 AM" src="https://github.com/user-attachments/assets/9db37426-f957-4f40-9bcb-e7238b9e1d18">
+<img width="1312" alt="Screenshot 2024-11-03 at 7 19 06 AM" src="https://github.com/user-attachments/assets/e03d7f75-04fd-44a4-bd45-c3470e698f19">
+<img width="1312" alt="Screenshot 2024-11-03 at 7 19 17 AM" src="https://github.com/user-attachments/assets/045e829d-ffcd-40ac-81ae-b5499425d932">
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/02c1af65-bf4b-4afe-86be-d5485ff1a91d
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
+
+
+ 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
